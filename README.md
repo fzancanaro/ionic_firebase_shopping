@@ -1,4 +1,4 @@
-# Ionic Firebase Shopping Cart App 
+# Ionic Firebase Food Delivery App
 
 
 #### Features:
@@ -11,7 +11,17 @@
       Now both of you can see the Menu and add the products to the cart in real time.
       On placing the order, both of you can track the Order status. 
      
-      No need of long Queue to order your favorate food. 
+      No need of long Queue to order your favorate food.
+      
+  #### Firebase
+      shopcard
+      cart
+      category
+      featured
+      menu
+      orders
+      users
+
       
       
 
